@@ -1,0 +1,91 @@
+.projects{
+       padding: 0px;
+       margin:0px;
+       position: absolute;
+       right: 0px;
+       top:1457px;
+       width: 87%;
+       height: 728px;
+       min-width: 1031px;
+       background: url('../pictures/projects1.jpg') no-repeat;
+       background-size: cover;
+}
+.projects h1{
+       background-color: white;
+       color:black ;
+       font-size: 110px;
+       font-family: 'Courier';
+       font-weight: bolder;
+       border-radius: 10px;
+       position: absolute;
+       right: 45%;
+       top: -71px;
+       border-radius: 50%;
+       box-shadow: 0px 0px 5px #888888;
+       text-shadow: 0px 0px 1px #888888;
+       padding: 10px 40px 10px 40px;
+       margin: 0px;
+}
+#parP{
+       font-family: 'Courier';
+       font-size: 40px;
+       font-weight: bold;
+       padding: 0px;
+       margin: 0px;
+       text-align: left;
+       width: 33%;
+       position: absolute;
+       right: 14%;
+       top: 200px;
+       text-shadow: 0px 0px 2px black;
+       color:white;
+       line-height: 39px;
+       opacity: 0.9;
+}
+#look p{
+       padding: 0px;
+       margin: 0px;
+       font-family: 'Courier';
+       font-size: 65px;
+       font-weight: bolder;
+       color:  white;
+}
+#look{
+       text-decoration: none;
+       padding: 0px;
+       margin: 0px;
+       text-align: center;
+       width: 33%;
+       position: absolute;
+       right: 14%;
+       top: 470px;
+       box-shadow: 0px 0px 1px #888888;
+       background-color: rgba(0,0,0,0.8);
+       border-radius: 2px;
+       opacity: 0.8;
+}
+#imagesB{
+       padding: 0px;
+       margin: 0px;
+       width: 33%;
+       height: 100%;
+       position: absolute;
+       left: 14%;
+       top: 0px;
+       background-image: url('../pictures/backgoundP.jpg');
+       background-position: center 0px;
+       //background-size: 65%;
+       background-repeat: repeat-y;
+}
+#imagesB img{
+       width: 100%;
+       position: relative;
+       top: 230px;
+       box-shadow: 0px 0px 5px #888888;
+}
+#blackB{
+       background-color: black;
+       opacity: 0.3;
+       height: 100%;
+       width: 100%;
+}

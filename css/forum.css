@@ -1,0 +1,189 @@
+.forum{
+       padding: 0px;
+       margin:0px;
+       position: absolute;
+       right: 0px;
+       top:2186px;
+       width: 87%;
+       min-width: 1031px;
+       height: 728px;
+       background: url('../pictures/forum.jpg') no-repeat;
+       background-size: cover;
+}
+.forum h1{
+       background-color: white;
+       color:black ;
+       font-size: 110px;
+       font-family: 'Courier';
+       font-weight: bolder;
+       border-radius: 10px;
+       position: absolute;
+       right: 45%;
+       top: -71px;
+       border-radius: 50%;
+       box-shadow: 0px 0px 5px #888888;
+       text-shadow: 0px 0px 1px #888888;
+       padding: 10px 40px 10px 40px;
+       margin: 0px;
+}
+#pictalk{
+       padding: 0px;
+       margin: 0px;
+       text-align: left;
+       width: 33%;
+       position: absolute;
+       left: 14%;
+       top: -30px;
+       //overflow: hidden;
+}
+#pictalk li{
+       margin: 0px;
+       padding: 0px;
+       list-style-type: none;
+       //overflow: hidden;
+}
+#pictalk li img{
+       width: 100px;
+       height: 100px;
+       border-radius: 50%;
+       margin-bottom: 40px;
+       box-shadow: 0px 4px 8px rgba(0,0,0,0.4);
+       //overflow: hidden;
+}
+#lastimg{
+       margin-bottom: 0px;
+}
+#prsnT1{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 40px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 5px 20px 20px 20px;
+       width: 250px;
+       color: white;
+       opacity: 0;
+       transition: all 0.2s cubic-bezier(0, 0.53, 0.34, 1.5)/*ease-in-out*/;
+       transform: scale(0);
+       transform-origin: top left;
+}
+span{
+       padding-left: 70%;
+}
+#prsnT2{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 50px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 20px 20px 20px 5px;
+       width: 250px;
+       color: white;
+       opacity: 0;
+       transition: all 0.2s cubic-bezier(0, 0.53, 0.34, 1.5);
+       transform: scale(0);
+       transform-origin: bottom left;
+}
+#prsnT3{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 190px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 20px 20px 20px 5px;
+       width: 250px;
+       color: white;
+}
+#prsnT4{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 330px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 20px 20px 20px 5px;
+       width: 250px;
+       color: white;
+       opacity: 0;
+       transition: all 0.2s cubic-bezier(0, 0.53, 0.34, 1.5);
+       transform: scale(0);
+       transform-origin: bottom left;
+}
+#prsnT5{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 470px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 20px 20px 20px 5px;
+       width: 250px;
+       color: white;
+       opacity: 0;
+       transition: all 0.2s cubic-bezier(0, 0.53, 0.34, 1.5);
+       transform: scale(0);
+       transform-origin: bottom left;
+}
+#prsnT6{
+       width: 30%;
+       position: absolute;
+       left: 22%;
+       top: 570px;
+       padding: 10px 20px;
+       margin: 0px;
+       background-color: rgba(0,0,0,0.8);
+       border: 2px solid white;
+       border-radius: 20px 20px 20px 5px;
+       width: 250px;
+       color: white;
+       opacity: 0;
+       transition: all 0.2s cubic-bezier(0, 0.53, 0.34, 1.5);
+       transform: scale(0);
+       transform-origin: bottom left;
+}
+#parR{
+       font-family: 'Courier';
+       font-size: 40px;
+       font-weight: bold;
+       padding: 0px;
+       margin: 0px;
+       text-align: left;
+       width: 33%;
+       position: absolute;
+       right: 14%;
+       top: 260px;
+       text-shadow: 0px 0px 2px #888888;
+       color:white;
+       line-height: 39px;
+       opacity: 0.8
+}
+#btnR{
+       font-family: 'Courier';
+       font-size: 65px;
+       font-weight: bolder;
+       padding: 0px;
+       margin: 0px;
+       text-align: center;
+       width: 33%;
+       position: absolute;
+       right: 14%;
+       top: 430px;
+       color:  white;
+       box-shadow: 0px 0px 1px #888888;
+       background-color: rgba(0,0,0,0.8);
+       border-radius: 2px;
+       opacity: 0.8;
+}

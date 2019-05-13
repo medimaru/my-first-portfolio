@@ -1,0 +1,62 @@
+.learning{
+       padding: 0px;
+       margin:0px;
+       position: absolute;
+       right: 0px;
+       top:728px;
+       width: 87%;
+       height: 728px;
+       min-width: 1031px;
+       background: url('../pictures/learning.jpg') no-repeat  ;
+       background-size: cover;
+}
+.learning h1{
+       background-color: white;
+       color:black ;
+       font-size: 110px;
+       font-family: 'Courier';
+       font-weight: bolder;
+       border-radius: 10px;
+       position: absolute;
+       right: 45%;
+       top: -71px;
+       border-radius: 50%;
+       box-shadow: 0px 0px 5px #888888;
+       text-shadow: 0px 0px 1px #888888;
+       padding: 10px 40px 10px 40px;
+       margin: 0px;
+}
+#parL{
+       font-family: 'Courier';
+       font-size: 40px;
+       font-weight: bold;
+       padding: 0px;
+       margin: 0px;
+       text-align: left;
+       width: 33%;
+       position: absolute;
+       left: 14%;
+       top: 260px;
+       text-shadow: 0px 0px 2px #888888;
+       color: white;
+       line-height: 39px;
+       opacity: 0.9;
+}
+#btn{
+       font-family: 'Courier';
+       font-size: 65px;
+       font-weight: bolder;
+       padding: 0px;
+       margin: 0px;
+       text-align: center;
+       width: 33%;
+       position: absolute;
+       left: 14%;
+       top: 430px;
+       background-color:  white;
+       box-shadow: 0px 0px 5px #888888;
+       color:  black;
+       text-shadow: 0px 0px 1px #888888;
+       opacity: 0.7;
+       border-radius: 3px;
+}
